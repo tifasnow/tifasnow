@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a Operational Support Director for the [Project Viridian](https://projectviridian.com) team, and I'm also a freelance developer. I'm currently working on supporting a few projects aside from Project Viridian, including helping with Documentation for [KatCodes' MFFS](https://www.github.com/KatCodesMods/mffs) mod. I'm also working on a few personal projects, including a Discord bot, and a few other things.
+I'm a Operational Support Director for the [Project Viridian](https://projectviridian.com) team, and I'm also a freelance developer. I'm currently working on supporting a few projects aside from Project Viridian, including helping with Documentation for [KatCodes' MFFS](https://www.github.com/KatCodesMods/mffs) mod. I'm also working on a few personal projects, including a Discord bot, a locally-hosted Home Dashboard, and a few other things.
 
 I'm currently trying to learn more about JavaScript, in particular React for web development. I'm also trying to learn more about PHP to support legacy projects.
 
