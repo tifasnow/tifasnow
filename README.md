@@ -4,8 +4,6 @@
 
 [![Website](https://img.shields.io/website?down_color=brown&down_message=offline&style=plastic&up_color=lime&up_message=online&url=https%3A%2F%2Ftifapup.com)](https://tifapup.com)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T7G8WFG)
-
 ## About Me
 
 I'm a Operational Support Director for the [Project Viridian](https://projectviridian.com) team, and I'm also a freelance developer. I'm currently working on supporting a few projects aside from Project Viridian, including helping with Documentation for [KatCodes' MFFS](https://www.github.com/KatCodesMods/mffs) mod. I'm also working on a few personal projects, including a Discord bot, a locally-hosted Home Dashboard, and a few other things.
@@ -38,6 +36,12 @@ I'm currently trying to learn more about JavaScript, in particular React for web
 
 - I enjoy playing video games on PC, Switch, and Xbox. My favorite games presently are the Pokémon series, the Halo series, and Rainbow Six Siege and Extraction. I also enjoy playing the occasional game of Final Fantasy XIV with friends.
 - I drink a lot of coffee, and I enjoy trying new beans and roasts. I also enjoy trying new teas, with my favorite being Twining's English Breakfast.
+
+## Support my work
+
+<iframe src="https://github.com/sponsors/tifasnow/card" title="Sponsor tifasnow" height="225" width="600" style="border: 0;"></iframe>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T7G8WFG)
 
 <!---
 tifasnow/tifasnow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
